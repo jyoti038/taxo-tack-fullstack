@@ -1,0 +1,26 @@
+# === Python Backend ===
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Databases & Data ===
+*.db
+*.sqlite3
+sample.csv
+
+# === Node Frontend ===
+node_modules/
+dist/
+.cache/
+
+# === Logs ===
+*.log
+
+# === OS Junk ===
+.DS_Store
+Thumbs.db
+
+# === Environment Files ===
+.env
